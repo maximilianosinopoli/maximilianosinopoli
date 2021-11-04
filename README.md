@@ -1,10 +1,10 @@
 <h2> 🙏 &nbsp Hi stranger! I'm @maximilianosinopoli</h2>
 
-  <p>- 😎  &nbsp I'm studying to become a Software Engineering!!</p>
+  <p>- 😎  &nbsp I'm studying to become a Software Engineer!!</p>
   <p>- 😈  &nbsp I'm currently doing a coding Bootcamp with School of Code based in UK..</p>
-  <p>- 🤓  &nbsp I'm over the moon learning everyday technologies like Javascript, NodeJS, Express, React and much more..</p>
+  <p>- 🤓  &nbsp I'm over the moon learning technologies like Javascript, NodeJS, Express, React and much more..</p>
   <p>- :open_book:  &nbsp I’m looking forward to be an active member of this tech community!</p>
-  <p>- :seedling:  &nbsp So if you would like to develop something together you can send me a message!</p>
+  <p>- :seedling:  &nbsp If you would like to develop something together you can send me a message!</p>
   <p>- :point_down:  &nbsp How to reach me out:</p>
   
  
