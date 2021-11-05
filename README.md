@@ -1,6 +1,6 @@
 <h2> 🙏 &nbsp Hi stranger! I'm @maximilianosinopoli</h2>
 
-  <p>- 😎  &nbsp I'm studying to become a Software Engineer!!</p>
+  <p>- 😎  &nbsp I'm studying to become a Software Developer!!</p>
   <p>- 😈  &nbsp I'm currently doing a coding Bootcamp with School of Code based in UK..</p>
   <p>- 🤓  &nbsp I'm over the moon learning technologies like Javascript, NodeJS, Express, React and much more..</p>
   <p>- ⚡ &nbsp Fun fact: I love reading, outdoor sports and playing the guitar</p>
