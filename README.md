@@ -1,4 +1,4 @@
-<h2> 🙏 &nbsp Hi stranger! I'm @maximilianosinopoli</h2>
+<h2>&nbsp Hi stranger! I'm @maximilianosinopoli</h2>
 
   <p>- 😎  &nbsp I'm studying to become a Software Developer!!</p>
   <p>- 😈  &nbsp I'm currently doing a coding Bootcamp with School of Code based in UK..</p>
