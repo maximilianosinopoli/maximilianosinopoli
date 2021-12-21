@@ -1,8 +1,8 @@
 <h2>&nbsp Hi stranger! I'm @maximilianosinopoli</h2>
 
-  <p>- 😎  &nbsp I'm studying to become a Software Developer!!</p>
-  <p>- 😈  &nbsp I'm currently doing a coding Bootcamp with School of Code based in UK..</p>
-  <p>- 🤓  &nbsp I'm over the moon learning technologies like Javascript, NodeJS, Express, React and much more..</p>
+  <p>- 😎  &nbsp I'm currently doing a Coding Bootcamp with School of Code based in UK and I'm documenting my journey in Medium.</p>
+  <p>- 😈  &nbsp We are covering a wide range of tech stack ranging from Javascript, Node JS, Express and React to Testing, Agile and Developing for the Cloud...</p>
+  <p>- 🤓  &nbsp I stand out for being an extremely curious person, with a proactive personality and a passion for learning new and exciting things.</p>
   <p>- ⚡ &nbsp Fun fact: I love reading, outdoor sports and playing the guitar</p>
   <p>- :seedling:  &nbsp If you would like to develop something together you can send me a message!</p>
   <p>-&nbsp Connect with me:</p>
