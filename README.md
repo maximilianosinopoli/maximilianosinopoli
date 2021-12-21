@@ -1,6 +1,6 @@
 <h2>&nbsp Hi!</h2>
 
-  <p>- 😎  &nbsp I'm currently doing a Coding Bootcamp with School of Code based in UK and I'm documenting my journey in <a>Medium.com</>.</p>
+  <p>- 😎  &nbsp I'm currently doing a Coding Bootcamp with School of Code based in UK and I'm documenting my journey in Medium.</p>
   <p>- 😈  &nbsp We are covering a wide range of tech stack ranging from Javascript, Node JS, Express and React to Testing, Agile and Developing for the Cloud...</p>
   <p>- 🤓  &nbsp I stand out for being an extremely curious person, with a proactive personality and a passion for learning new and exciting things.</p>
   <p>- ⚡ &nbsp Fun fact: I love reading, outdoor sports and playing the guitar</p>
