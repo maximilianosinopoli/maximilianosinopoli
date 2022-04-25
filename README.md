@@ -16,7 +16,7 @@
 
 ---
 
-[website]: https://maximiliano-sinopoli-js-react.netlify.app/
+[website]: https://maximiliano-sinopoli-react.netlify.app/
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://www.youtube.com/channel/UCz82kLU080H2Bk1kJ_emEDw
 [instagram]: https://www.instagram.com/colosinopoli/
