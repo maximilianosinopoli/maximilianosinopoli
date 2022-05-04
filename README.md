@@ -1,11 +1,11 @@
 <h2>&nbsp Hi!</h2>
-  <p>- ⚡  &nbsp I am working as Software Engineer at Gulp Digital, London UK</p>
-  <p>- 😎  &nbsp I started this journey doing a coding bootcamp with School of Code.</p>
-  <p>- 😈  &nbsp We covered a wide range of tech stack ranging from Javascript, Node JS, Express and React to Testing, Agile Methodology and Cloud Developing...</p>
-  <p>- 🤓  &nbsp I stand out for being an extremely curious person, with a proactive personality and a passion for learning new and exciting things.</p>
-  <p>- ⚡ &nbsp I love reading, outdoor sports and playing the guitar.</p>
-  <p>- :seedling:  &nbsp If you would like to develop something together you can send me a message!</p>
-  <p>-&nbsp Connect with me:</p>
+  <p> ⚡  &nbsp I am working as Software Engineer at Gulp Digital, London UK</p>
+  <p> 😎  &nbsp I started this journey doing a coding bootcamp with School of Code.</p>
+  <p> 😈  &nbsp We covered a wide range of tech stack ranging from Javascript, Node JS, Express and React to Testing, Agile Methodology and Cloud Developing...</p>
+  <p> 🤓  &nbsp I stand out for being an extremely curious person, with a proactive personality and a passion for learning new and exciting things.</p>
+  <p> ⚡ &nbsp I love reading, outdoor sports and playing the guitar.</p>
+  <p> :seedling:  &nbsp If you would like to develop something together you can send me a message!</p>
+  <p>&nbsp Connect with me:</p>
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
