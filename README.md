@@ -1,7 +1,7 @@
 <h2>&nbsp Hi!</h2>
   <p> ⚡  &nbsp I am working as Software Engineer at Gulp Digital, London UK</p>
   <p> 😎  &nbsp I started this journey doing a coding bootcamp with School of Code.</p>
-  <p> 😈  &nbsp We covered a wide range of tech stack ranging from Javascript, Node JS, Express and React to Testing, Agile Methodology and Cloud Developing...</p>
+  <p> 😈  &nbsp We covered a wide range of tech stack ranging from JS, Node JS, Express and React to Testing, Agileand Cloud Developing...</p>
   <p> 🤓  &nbsp I stand out for being an extremely curious person, with a proactive personality and a passion for learning new and exciting things.</p>
   <p> ⚡ &nbsp I love reading, outdoor sports and playing the guitar.</p>
   <p> :seedling:  &nbsp If you would like to develop something together you can send me a message!</p>
