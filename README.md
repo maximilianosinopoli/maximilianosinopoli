@@ -5,7 +5,7 @@
   <p>As I'm a quite restless person I'm always researching and playing-around with new topics of interest. At the moment: Blockchain. I'm also a bit fan of outdoor sports so I'm always on something out there.. 🏄‍♂️ </p>
   <p>My tech stack 🚀 
 
-* Frontend: HTML, CSS, Javascript, Sass
+* Frontend: HTML, CSS, Javascript, Axios, Sass
 * Frameworks: React, Next JS, Typescript
 * Deployment: Heroku, AWS, Docker, CI/CD
 * Backend: Node JS, Express
