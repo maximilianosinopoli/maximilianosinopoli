@@ -23,7 +23,7 @@
 * Database: PostgreSQL, ORM, Sequalize
 * Testing: Jest, Cypress, TDD
 * Tools: Trello, Miro, Figma, Git, Postman
-* Other: Agile, Pair Programming, DevOps, CMS, CSR, SSR, SSG
+* Other: Agile, Pair Programming, DevOps, CMS, CSR, SSR, SSG, Storybook
   </p>
   
   <br>
