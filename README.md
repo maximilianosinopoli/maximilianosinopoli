@@ -7,7 +7,7 @@
   <p>I started this journey doing a coding bootcamp with School of Code based in Uk, and I'm currently over the moon working at Gulp Digital  🚀 </p>
   
   <p> I stand out for being an extremely curious person, with a proactive personality and passion for learning and exploring new topics. I'm really interested in this exciting times for the tech landscape, specially on projects that look for to make a positive impact on people's life 🙏</p>
-  <p>As I'm a quite restless person I'm always researching and playing-around with new topics of interest. At the moment: Blockchain. I'm also a bit fan of outdoor sports so I'm always on something out there.. 🏄‍♂️ </p>
+  <p>As I'm a quite restless person I'm always researching and playing-around with new topics of interest. At the moment: DevOps. I'm also a bit fan of outdoor sports so I'm always on something out there.. 🏄‍♂️ </p>
   
 
 >
@@ -17,13 +17,13 @@
   <p>My tech stack 🚀 
 
 * Frontend: HTML, CSS, Javascript, Axios, Sass
-* Frameworks: React, Next JS, Typescript
+* Frameworks: React, Next, Typescript, Redux
 * Deployment: Heroku, AWS, Docker, CI/CD
-* Backend: Node JS, Express
+* Backend: Node JS, Express, Strapi
 * Database: PostgreSQL, ORM, Sequalize
 * Testing: Jest, Cypress, TDD
 * Tools: Trello, Miro, Figma, Git, Postman
-* Other: Agile, Pair Programming, DevOps, CMS, CSR, SSR, SSG, Storybook
+* Other: Agile, Pair Programming, DevOps, CSR, SSR, SSG, Storybook
   </p>
   
   <br>
