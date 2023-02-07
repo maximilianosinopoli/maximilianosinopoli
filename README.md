@@ -6,8 +6,10 @@
   I'm Max, a Software Engineer based in London that loves building full-stack products working in agile and diverse teams with a strong devOps culture. </h1>
 <!--   <p>I started this journey doing a coding bootcamp with School of Code based in Uk, and I'm currently over the moon working at Gulp Digital 🚀 </p> -->
   
-  <h3> I stand out for being an extremely curious person, with a proactive personality and passion for learning and exploring new topics. I'm really interested on projects that look for make a positive impact on people's life 🙏</h3>
-  <h3>As I'm a quite restless person I'm always researching and playing-around with new topics of interest. At the moment: DevOps. I'm also a bit fan of outdoor sports so I'm always on something out there! 🏄‍♂️ </h3>
+  <h3> I stand out for being an extremely curious person, with a proactive personality and passion for learning and exploring new topics.</h3>
+  <h3>I'm really interested on projects that look for make a positive impact on people's life 🙏</h3>
+  <h3>As I'm a quite restless person I'm always researching and playing-around with new topics of interest. At the moment: DevOps.</h3>
+   <h3>I'm also a bit fan of outdoor sports so I'm always on something out there! 🏄‍♂️</h3>
   
   <br>
   
