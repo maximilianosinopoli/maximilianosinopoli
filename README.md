@@ -20,11 +20,10 @@
 * Testing: Jest, React Testing Library Cypress, TDD, Browser Stack.
 * Tools: Trello, Miro, Figma, Git, Postman, Jira.
 * Other: Agile, Pair Programming, DevOps, CSR, SSR, SSG, Storybook.
-  </h3>
+  </h4>
   
-  <br>
  
-  <h3>Connect with me 🌱</h2>
+  <h4>Connect with me 🌱</h4>
  
 [<img align="left" alt="codeSTACKr.com" width="35px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -32,7 +31,7 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Medium" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
-<h3>
+<h4>
 
 [website]: https://maximiliano-sinopoli-react.netlify.app/
 [twitter]: https://twitter.com/codeSTACKr
