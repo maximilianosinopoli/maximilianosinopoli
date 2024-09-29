@@ -24,5 +24,5 @@ When I'm not coding, you can find me diving into a good book 📚, experimenting
 - AWS Practitioner Certification - Got it! ✅
 
 ## Let's Connect! 🤙
-- Check out my LinkedIn: [maxisinopoli-react](https://www.linkedin.com/in/maxsinopoli/)
+- Check out my LinkedIn: [maxisinopoli](https://www.linkedin.com/in/maxsinopoli/)
 - Shoot me an email: [m_sinopoli@hotmail.com](mailto:m_sinopoli@hotmail.com)
