@@ -1,28 +1,40 @@
 # Max Sinopoli ⚡️
 
 ## Who Am I? 🌟
-Hey there! I'm Max, a Software Developer with a knack for front-end magic ✨. JavaScript, TypeScript, and React are my playgrounds 🎮. I'm all about delivering top-notch results with a dash of creativity and innovation 🚀.
+Hi! I'm Max, a **Software Engineer building cloud products end-to-end** using **AWS Serverless** on the backend and **React/TypeScript** on the frontend. I focus on delivering features that **improve product outcomes, reduce friction for users, and ship with strong observability**, with a **clear bias toward action and fast iterations** in Agile teams.
 
-Graduated from the University of Greenwich and the "School of Code" bootcamp, I've turned my passion for coding into a thriving career. I'm a proactive go-getter, always ready to tackle challenges in Agile and diverse teams. 🤝
+After studying **Computer Science at the University of Greenwich** and graduating from the **“School of Code” JavaScript bootcamp**, I began my professional career building full-stack applications and have since grown into **backend-focused roles**, currently at the **LEGO Group**, developing **cloud-native, high-performance AWS Serverless systems**.  
 
-When I'm not coding, you can find me diving into a good book 📚, experimenting with new recipes in the kitchen 🍳, or hitting the football field and padel courts ⚽🎾.
+When I’m not coding, I enjoy **reading, experimenting with new recipes, playing football ⚽, and surfing 🏄‍♂️**.
 
-## My Tech Toolbox 🔧
-- **Languages & Frameworks**: JavaScript, TypeScript, React, Node.js, Next.js, Jest, Cypress, React Testing Library
-- **Databases**: PostgreSQL, MongoDB
-- **Other Cool Stuff**: AWS (EC2, S3), GraphQL, Docker, Git, GitHub, GitHub Actions, CI/CD, Sentry, Webpack, Browser Stack
+---
 
-## What Excites Me? ⚡️
-- Pushing the boundaries in Frontend Development 🖥️
-- Enhancing Web Performance 💨
-- Exploring Micro Frontends 🧐
-- Diving into Serverless architectures ☁️
-- Unraveling the mysteries of Software Architecture 🏛️
-- Decoding Design Patterns 🔍
+## Tech Stack 🔧
+- **Languages & Runtime:** JavaScript, TypeScript, Node.js  
+- **Frameworks & Frontend:** React, Next.js, GraphQL, Storybook, Headless CMS  
+- **Databases & Backend:** PostgreSQL, DynamoDB, OpenSearch  
+- **Cloud & DevOps:** AWS Serverless (Lambda, API Gateway, S3, DynamoDB, SQS, SNS, EventBridge, Step Functions, Kinesis), CDK, Docker, GitHub Actions, CI/CD, Optimizely  
+- **Testing & Observability:** Jest, Vitest, Cypress, New Relic  
+
+---
+
+## Focus Areas ⚡️
+- **Serverless architectures** ☁️  
+- **Cloud-native, high-performance backend systems** 🚀  
+- **Resilient software architecture and distributed systems** 🏛️  
+- **Observability, monitoring, and operational reliability** 🔍  
+- **Design patterns and scalable full-stack solutions** 🖥️  
+
+---
 
 ## Certifications 🎓
-- AWS Practitioner Certification - Got it! ✅
+- AWS Practitioner Certification ✅  
+- AWS Developer Certification – In Progress ⏳  
+
+---
 
 ## Let's Connect! 🤙
-- Check out my LinkedIn: [maxisinopoli](https://www.linkedin.com/in/maxsinopoli/)
-- Shoot me an email: [m_sinopoli@hotmail.com](mailto:m_sinopoli@hotmail.com)
+- GitHub: [https://github.com/maximilianosinopoli](https://github.com/maximilianosinopoli)  
+- LinkedIn: [maxisinopoli](https://www.linkedin.com/in/maxsinopoli/)  
+- Email: [m_sinopoli@hotmail.com](mailto:m_sinopoli@hotmail.com)
+
