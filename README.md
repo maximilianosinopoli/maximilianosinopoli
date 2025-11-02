@@ -3,7 +3,7 @@
 ## Who Am I? 🌟
 Hi! I'm Max, a **Software Engineer building cloud products end-to-end** using **AWS Serverless** on the backend and **React/TypeScript** on the frontend. I focus on delivering features that **improve product outcomes, reduce friction for users, and ship with strong observability**, with a **clear bias toward action and fast iterations** in Agile teams.
 
-After studying **Computer Science at the University of Greenwich** and graduating from the **“School of Code” JavaScript bootcamp**, I began my professional career building full-stack applications and have since grown into **backend-focused roles**, currently at the **LEGO Group**, developing **cloud-native, high-performance AWS Serverless systems**.  
+After a foundation year in **Computer Science at the University of Greenwich** and graduating from the **“School of Code” JavaScript bootcamp**, I began my professional career building full-stack applications and have since grown into **backend-focused roles**, currently at the **LEGO Group**, developing **cloud-native, high-performance AWS Serverless systems**.  
 
 When I’m not coding, I enjoy **reading, experimenting with new recipes, playing football ⚽, and surfing 🏄‍♂️**.
 
